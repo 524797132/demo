@@ -3,11 +3,6 @@
   "description": "test",
   "type": "project",
   "license": "mix",
-  "autoload": {
-    "psr-4": {
-      "524797132\\Demo\\": "src/"
-    }
-  },
   "authors": [
     {
       "name": "zhouwenming",

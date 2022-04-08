@@ -9,7 +9,7 @@
       "email": "524797132@qq.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "main",
   "require": {
     "php": ">=7.0"
   },

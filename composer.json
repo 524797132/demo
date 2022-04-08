@@ -1,0 +1,18 @@
+{
+  "name": "524797132/demo",
+  "description": "test",
+  "type": "project",
+  "license": "mix",
+  "autoload": {
+    "psr-4": {
+      "524797132\\Demo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zhouwenming",
+      "email": "524797132@qq.com"
+    }
+  ],
+  "require": {}
+}
